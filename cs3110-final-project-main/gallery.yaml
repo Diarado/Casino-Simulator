@@ -1,0 +1,38 @@
+---
+# Members of your group.
+group:
+  - name: Yingxin(Marta) Liang
+    netid: yl3386
+  - name: Jiahe Tian
+    netid: jt828
+  - name: Michael Luo 
+    netid: yl989
+# Your PM.
+pm:
+  name: Arianna Curillo
+  netid: asc327
+# Set to false if you don't want your gallery entry to be public.
+publish: true
+# Pithy title
+title: "Casino Simulator"
+# OK if this is a Cornell Github link, but public gallery viewers won't be able to see it.
+git-repo: "https://github.coecis.cornell.edu/jt828/cs3110-final-project"
+# If you have no demo screencast, replace the url string with an empty string ""
+demo-video-url: ""
+# Write a short, attention-grabbing description of your project.
+desc: >
+  Casino Simulator is an exciting project developed in OCaml that offers users 
+  a chance to experience the thrill of five popular casino games - Baccarat, B
+  lackjack, Craps, Roulette, and Slot Machine. 
+  With a money system in place, users can bet and win big in each of these games. 
+  The project is designed to replicate the actual casino experience, with realistic 
+  graphics and sound effects, making users feel like they are sitting in a real 
+  casino. The game features an easy-to-use menu that allows users to choose which 
+  game they want to play. Whether you're a seasoned gambler or a newbie, Casino 
+  Simulator caters to all skill levels, with each game providing different levels 
+  of difficulty and excitement. Baccarat is a classic card game that is easy to 
+  learn but challenging to master, while Blackjack is a game of strategy and 
+  skill where the goal is to beat the dealer's hand without going over 21. 
+  Craps is a dice game that is all about luck and betting on the outcome of the 
+  roll, while Roulette is a game of chance that involves betting on where a ball 
+  will land on a spinning wheel. 
