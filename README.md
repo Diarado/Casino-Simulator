@@ -3,8 +3,6 @@ Casino Simulator is an exciting project developed in OCaml that offers users a c
 
 With a money system in place, users can bet and win big in each of these games. The project is designed to replicate the actual casino experience, with realistic graphics and sound effects, making users feel like they are sitting in a real casino. The game features an easy-to-use menu that allows users to choose which game they want to play. Whether you're a seasoned gambler or a newbie, Casino Simulator caters to all skill levels, with each game providing different levels of difficulty and excitement.
 
-This project was built for Cornell University's CS 3110 Fall 2023 Final Project and made public with permission from course instructors. 
-
 - Jiahe Tian jt828 (jt828@cornell.edu)
 
 # Primary Games
