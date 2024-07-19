@@ -16,13 +16,6 @@ This project was built for Cornell University's CS 3110 Fall 2023 Final Project 
 # Dependencies
 OCaml
 
-# Demo Images
-Baccarat:
-![Baccarat](Baccarat.jpg)
-Match Three:
-![Match_three](Match_three.jpg)
-Roulette:
-![Roulette:](Roulette.jpg)
 
 
 
